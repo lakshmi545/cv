@@ -1,0 +1,33 @@
+body{
+    background-color: #EAF6F6;
+    margin: 0px;
+}
+
+h1,h3{
+    color: #66BFBF;
+
+}
+
+hr{
+
+    border-style: none;
+    border-top-style: dotted;
+    width: 10%;
+    border-width: 5px;
+
+}
+
+div{
+    background-color: #377D71;
+    padding:10px;
+}
+
+#menu1{
+    color:#EAF6F6;
+    padding: 10px;
+    font-weight: bold;
+
+}
+
+
+
